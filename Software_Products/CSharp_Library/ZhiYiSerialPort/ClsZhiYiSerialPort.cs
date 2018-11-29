@@ -16,26 +16,6 @@ namespace ZhiYiCSharpLibs
 
         private SerialPort serial = new SerialPort();
         public List<byte> rxBuffer = new List<byte>();
-        //private Thread thread = null;
-
-        //public List<byte> ReceiveBuffer = new List<byte>();
-
-        //private void CopyToBuffer()
-        //{
-        //    while(this.serial.IsOpen)
-        //    {
-        //        lock(rxBuffer)
-        //        {
-        //            if(rxBuffer.Count > 0)
-        //            {
-        //                Debug.WriteLine(string.Format("{0:X2} ", rxBuffer[0]));
-        //                ReceiveBuffer.Add(rxBuffer[0]);
-        //                rxBuffer.RemoveAt(0);
-        //            }
-        //        }
-        //        Thread.Sleep(1);
-        //    }
-        //}
 
         public string[] GetAvailablePorts()
         {
@@ -83,15 +63,9 @@ namespace ZhiYiCSharpLibs
                 serial.DiscardInBuffer();
                 serial.DiscardOutBuffer();
 
-                //ReceiveBuffer.Clear();
                 rxBuffer.Clear();
                 serial.DataReceived += Serial_DataReceived;
-
-                //if (thread == null)
-                //{
-                //    thread = new Thread(new ThreadStart(CopyToBuffer));
-                //    thread.Start();
-                //}
+                
                 return true;
             }
             catch(Exception)
@@ -122,9 +96,6 @@ namespace ZhiYiCSharpLibs
             try
             {
                 serial.Close();
-
-                //thread.Abort();
-                //thread = null;
             }
             catch(Exception)
             {
