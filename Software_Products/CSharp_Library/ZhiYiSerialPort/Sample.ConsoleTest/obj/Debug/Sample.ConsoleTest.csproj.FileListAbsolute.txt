@@ -1,0 +1,11 @@
+D:\PenG\Documents\GitHub\MyOwn\ZhiYi\Software_Products\CSharp_Library\ZhiYiSerialPort\Sample.ConsoleTest\obj\Debug\Sample.ConsoleTest.csprojAssemblyReference.cache
+D:\PenG\Documents\GitHub\MyOwn\ZhiYi\Software_Products\CSharp_Library\ZhiYiSerialPort\Sample.ConsoleTest\obj\Debug\Sample.ConsoleTest.csproj.CoreCompileInputs.cache
+D:\PenG\Documents\GitHub\MyOwn\ZhiYi\Software_Products\CSharp_Library\ZhiYiSerialPort\Sample.ConsoleTest\bin\Debug\Sample.ConsoleTest.exe
+D:\PenG\Documents\GitHub\MyOwn\ZhiYi\Software_Products\CSharp_Library\ZhiYiSerialPort\Sample.ConsoleTest\bin\Debug\Sample.ConsoleTest.pdb
+D:\PenG\Documents\GitHub\MyOwn\ZhiYi\Software_Products\CSharp_Library\ZhiYiSerialPort\Sample.ConsoleTest\bin\Debug\ZhiYiSerialPort.dll
+D:\PenG\Documents\GitHub\MyOwn\ZhiYi\Software_Products\CSharp_Library\ZhiYiSerialPort\Sample.ConsoleTest\bin\Debug\ZhiYiSerialPort.pdb
+D:\PenG\Documents\GitHub\MyOwn\ZhiYi\Software_Products\CSharp_Library\ZhiYiSerialPort\Sample.ConsoleTest\obj\Debug\Sample.ConsoleTest.csproj.CopyComplete
+D:\PenG\Documents\GitHub\MyOwn\ZhiYi\Software_Products\CSharp_Library\ZhiYiSerialPort\Sample.ConsoleTest\obj\Debug\Sample.ConsoleTest.exe
+D:\PenG\Documents\GitHub\MyOwn\ZhiYi\Software_Products\CSharp_Library\ZhiYiSerialPort\Sample.ConsoleTest\obj\Debug\Sample.ConsoleTest.pdb
+D:\PenG\Documents\GitHub\MyOwn\ZhiYi\Software_Products\CSharp_Library\ZhiYiSerialPort\Sample.ConsoleTest\bin\Debug\ClsMessageBox.dll
+D:\PenG\Documents\GitHub\MyOwn\ZhiYi\Software_Products\CSharp_Library\ZhiYiSerialPort\Sample.ConsoleTest\bin\Debug\ClsMessageBox.pdb

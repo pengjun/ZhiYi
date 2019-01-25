@@ -1,0 +1,6 @@
+D:\PenG\Documents\GitHub\MyOwn\ZhiYi\Software_Products\CSharp_Library\ZhiYiSerialPort\ZhiYiSerialPort\ClsMessageBox\bin\Debug\ClsMessageBox.dll
+D:\PenG\Documents\GitHub\MyOwn\ZhiYi\Software_Products\CSharp_Library\ZhiYiSerialPort\ZhiYiSerialPort\ClsMessageBox\bin\Debug\ClsMessageBox.pdb
+D:\PenG\Documents\GitHub\MyOwn\ZhiYi\Software_Products\CSharp_Library\ZhiYiSerialPort\ZhiYiSerialPort\ClsMessageBox\obj\Debug\ClsMessageBox.csprojAssemblyReference.cache
+D:\PenG\Documents\GitHub\MyOwn\ZhiYi\Software_Products\CSharp_Library\ZhiYiSerialPort\ZhiYiSerialPort\ClsMessageBox\obj\Debug\ClsMessageBox.csproj.CoreCompileInputs.cache
+D:\PenG\Documents\GitHub\MyOwn\ZhiYi\Software_Products\CSharp_Library\ZhiYiSerialPort\ZhiYiSerialPort\ClsMessageBox\obj\Debug\ClsMessageBox.dll
+D:\PenG\Documents\GitHub\MyOwn\ZhiYi\Software_Products\CSharp_Library\ZhiYiSerialPort\ZhiYiSerialPort\ClsMessageBox\obj\Debug\ClsMessageBox.pdb

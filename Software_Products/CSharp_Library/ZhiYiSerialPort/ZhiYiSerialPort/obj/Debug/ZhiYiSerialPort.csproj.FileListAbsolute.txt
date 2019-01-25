@@ -1,0 +1,9 @@
+D:\PenG\Documents\GitHub\MyOwn\ZhiYi\Software_Products\CSharp_Library\ZhiYiSerialPort\ZhiYiSerialPort\bin\Debug\ZhiYiSerialPort.dll
+D:\PenG\Documents\GitHub\MyOwn\ZhiYi\Software_Products\CSharp_Library\ZhiYiSerialPort\ZhiYiSerialPort\bin\Debug\ZhiYiSerialPort.pdb
+D:\PenG\Documents\GitHub\MyOwn\ZhiYi\Software_Products\CSharp_Library\ZhiYiSerialPort\ZhiYiSerialPort\obj\Debug\ZhiYiSerialPort.csprojAssemblyReference.cache
+D:\PenG\Documents\GitHub\MyOwn\ZhiYi\Software_Products\CSharp_Library\ZhiYiSerialPort\ZhiYiSerialPort\obj\Debug\ZhiYiSerialPort.csproj.CoreCompileInputs.cache
+D:\PenG\Documents\GitHub\MyOwn\ZhiYi\Software_Products\CSharp_Library\ZhiYiSerialPort\ZhiYiSerialPort\obj\Debug\ZhiYiSerialPort.dll
+D:\PenG\Documents\GitHub\MyOwn\ZhiYi\Software_Products\CSharp_Library\ZhiYiSerialPort\ZhiYiSerialPort\obj\Debug\ZhiYiSerialPort.pdb
+D:\PenG\Documents\GitHub\MyOwn\ZhiYi\Software_Products\CSharp_Library\ZhiYiSerialPort\ZhiYiSerialPort\bin\Debug\ClsMessageBox.dll
+D:\PenG\Documents\GitHub\MyOwn\ZhiYi\Software_Products\CSharp_Library\ZhiYiSerialPort\ZhiYiSerialPort\bin\Debug\ClsMessageBox.pdb
+D:\PenG\Documents\GitHub\MyOwn\ZhiYi\Software_Products\CSharp_Library\ZhiYiSerialPort\ZhiYiSerialPort\obj\Debug\ZhiYiSerialPort.csproj.CopyComplete
